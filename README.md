@@ -14,8 +14,14 @@ Nice to meet you! I'm Kumar Rishav, a versatile developer with expertise in web,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarrishav4&theme=react)](https://github.com/kumarrishav4/github-readme-stats)
 
 <p align="left">
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
+    <img src="https://img.shields.io/badge/language-C++-blue.svg?style=flat-square&logo=c%2B%2B" alt="C++">
+    <img src="https://img.shields.io/badge/language-Python-blue.svg?style=flat-square&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/language-Java-orange.svg?style=flat-square&logo=java" alt="Java">
+    <img src="https://img.shields.io/badge/language-Go-blue.svg?style=flat-square&logo=go" alt="Go">
+    <img src="https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square&logo=typescript" alt="TypeScript">
+    <img src="https://img.shields.io/badge/language-JavaScript-yellow.svg?style=flat-square&logo=javascript" alt="JavaScript">
+    <img src="https://img.shields.io/badge/library-React.js-blue.svg?style=flat-square&logo=react" alt="React.js">
+
     <!-- Add more shields as needed -->
 </p>
 
