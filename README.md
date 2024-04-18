@@ -22,7 +22,6 @@ Nice to meet you! I'm Kumar Rishav, a versatile developer with expertise in web,
     <img src="https://img.shields.io/badge/language-JavaScript-yellow.svg?style=flat-square&logo=javascript" alt="JavaScript">
     <img src="https://img.shields.io/badge/library-React.js-blue.svg?style=flat-square&logo=react" alt="React.js">
 
-    <!-- Add more shields as needed -->
 </p>
 
 ## Github Status 🏆
