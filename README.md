@@ -32,7 +32,7 @@ Nice to meet you! I'm Kumar Rishav, a versatile developer with expertise in web,
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarrishav4&theme=react-dark)
 <br>
-## My Interests 🌈
+## My Interests 💎
 
 - Web Development
 - Game Development
