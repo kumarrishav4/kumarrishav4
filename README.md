@@ -7,6 +7,8 @@ Nice to meet you! I'm Kumar Rishav, a versatile developer with expertise in web,
 - 🌐 Full-stack Developer
 - 🎨 UI/UX Designer
 - 🤖 Creative Technologist
+- 🧊 3d Artist and Animator
+- 🎮 Game Developer
 - 🌟 Passionate Innovator
 
 ## My Stats 📊
